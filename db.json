@@ -2,7 +2,7 @@
 	"goals": [
 	  {
 		"name": "Helsefagarbeiderfaget Bedrift",
-		"extId": "UDIR-HEA",
+		"extId": "UDIR-HEA1",
 		"source": "source1", 
 		"education": "education1",
 		"sections": [
@@ -34,7 +34,7 @@
 	  },
 	  {
 		"name": "Helsefagarbeiderfaget Bedrift 2",
-		"extId": "UDIR-HEA",
+		"extId": "UDIR-HEA2",
 		"source": "source2", 
 		"education": "education2",
 
