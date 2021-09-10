@@ -5,6 +5,11 @@
 		"extId": "UDIR-HEA1",
 		"source": "source1", 
 		"education": "education1",
+		"category": {
+		 	"extId": "HNH",
+			"name": "Something",
+			"type": "COMP_GOAL_PLAN"
+		},
 		"sections": [
 		  {
 			"name": "Helsefremmende arbeid",
