@@ -7,7 +7,7 @@
 		"education": "education1",
 		"category": {
 		 	"extId": "HNH",
-			"name": "Something",
+			"name": "Competency goal plans",
 			"type": "COMP_GOAL_PLAN"
 		},
 		"sections": [
@@ -42,7 +42,11 @@
 		"extId": "UDIR-HEA2",
 		"source": "source2", 
 		"education": "education2",
-
+		"category": {
+		 	"extId": "HNH",
+			"name": "Competency goal plans",
+			"type": "COMP_GOAL_PLAN"
+		},
 		"sections": [
 		  {
 			"name": "Helsefremmende arbeid",
