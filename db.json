@@ -27,72 +27,6 @@
               "extId": "HEA-02-2",
               "text": "Kan tilrettelegge for og tilberede måltider som ivaretar brukernes helse og trivsel, og begrunne forslagene i tråd med norske anbefalinger for ernæring",
               "elaboration": "Læringsaktiviteter gjennomføres og kompetansemålet sendes til veileder for godkjenning"
-            },
-            {
-              "name": "HEA-03 Underernæring og feilernæring",
-              "extId": "HEA-03-3",
-              "text": "Kan identifisere underernæring og feilernæring og foreslå tiltak for å forebygge og behandle disse",
-              "elaboration": "Læringsaktiviteter gjennomføres og kompetansemålet sendes til veileder for godkjenning"
-            },
-            {
-              "name": "HEA-04 Planlegge, gjennomføre, vurdere pleie - og omsorgstiltak",
-              "extId": "HEA-04-4",
-              "text": "Kan planlegge, gjennomføre, vurdere og dokumentere forebyggende, habiliterende og rehabiliterende pleie- og omsorgstiltak",
-              "elaboration": "Læringsaktiviteter gjennomføres og kompetansemålet sendes til veileder for godkjenning"
-            },
-            {
-              "name": "HEA-05 Iverksette og begrunne tiltak",
-              "extId": "HEA-05-5",
-              "text": "Kan iverksette og begrunne tiltak ved sykdom og skade i samarbeid med andre yrkesgrupper",
-              "elaboration": "Læringsaktiviteter gjennomføres og kompetansemålet sendes til veileder for godkjenning"
-            },
-            {
-              "name": "HEA-06 Allmenntilstand",
-              "extId": "HEA-06-6",
-              "text": "Kan observere allmenntilstand, rapportere og dokumentere endringer",
-              "elaboration": "Læringsaktiviteter gjennomføres og kompetansemålet sendes til veileder for godkjenning"
-            },
-            {
-              "name": "HEA-07 Sykepleietiltak",
-              "extId": "HEA-07-7",
-              "text": "Kan observere, vurdere og utføre sykepleietiltak ved sykdom og skade",
-              "elaboration": "Læringsaktiviteter gjennomføres og kompetansemålet sendes til veileder for godkjenning"
-            },
-            {
-              "name": "HEA-08 Alvorlig syke og døende",
-              "extId": "HEA-08-8",
-              "text": "Kan utføre pleie til alvorlig syke og døende",
-              "elaboration": "Læringsaktiviteter gjennomføres og kompetansemålet sendes til veileder for godkjenning"
-            },
-            {
-              "name": "HEA-09 Hygiene",
-              "extId": "HEA-09-9",
-              "text": "Kan utføre hygienetiltak i tråd med gjeldende prosedyrer",
-              "elaboration": "Læringsaktiviteter gjennomføres og kompetansemålet sendes til veileder for godkjenning"
-            },
-            {
-              "name": "HEA-10 Psykisk helse",
-              "extId": "HEA-10-10",
-              "text": "Kan planlegge og gjennomføre tiltak som fremmer psykisk helse og livskvalitet",
-              "elaboration": "Læringsaktiviteter gjennomføres og kompetansemålet sendes til veileder for godkjenning"
-            },
-            {
-              "name": "HEA-11 Kultur og kulturopplevelser",
-              "extId": "HEA-11-11",
-              "text": "Kan bruke kultur og kulturopplevelser som helsefremmende tiltak",
-              "elaboration": "Læringsaktiviteter gjennomføres og kompetansemålet sendes til veileder for godkjenning"
-            },
-            {
-              "name": "HEA-12 Veilede pasienter og brukere",
-              "extId": "HEA-12-12",
-              "text": "Kan veilede pasienter og brukere i å benytte velferdsteknologi og andre hjelpemidler",
-              "elaboration": "Læringsaktiviteter gjennomføres og kompetansemålet sendes til veileder for godkjenning"
-            },
-            {
-              "name": "HEA-13 Vurdere risiko for brann",
-              "extId": "HEA-13-13",
-              "text": "Kan vurdere risiko for brann og andre hjemmeulykker og foreslå forebyggende tiltak",
-              "elaboration": "Læringsaktiviteter gjennomføres og kompetansemålet sendes til veileder for godkjenning"
             }
           ]
         },
@@ -111,42 +45,6 @@
               "extId": "HEA-15-15",
               "text": "Kan kommunisere med brukere og pasienter med ulik kommunikasjonsevne",
               "elaboration": "Læringsaktiviteter gjennomføres og kompetansemålet sendes til veileder for godkjenning"
-            },
-            {
-              "name": "HEA-16 Observere, rapportere og dokumentere",
-              "extId": "HEA-16-16",
-              "text": "Kan observere, rapportere og dokumentere den enkelte brukers behov for helsehjelp",
-              "elaboration": "Læringsaktiviteter gjennomføres og kompetansemålet sendes til veileder for godkjenning"
-            },
-            {
-              "name": "HEA-17 Regelverk",
-              "extId": "HEA-17-17",
-              "text": "Kan følge gjeldende regelverk for taushetsplikt og personvern i helse- og sosialsektoren",
-              "elaboration": "Læringsaktiviteter gjennomføres og kompetansemålet sendes til veileder for godkjenning"
-            },
-            {
-              "name": "HEA-18 Informere og veilede brukere",
-              "extId": "HEA-18-18",
-              "text": "Kan informere og veilede brukere, pasienter og pårørende i helsefaglige spørsmål om rettigheter innen helse- og sosialtjenesten",
-              "elaboration": "Læringsaktiviteter gjennomføres og kompetansemålet sendes til veileder for godkjenning"
-            },
-            {
-              "name": "HEA-19 Konflikthåndtering",
-              "extId": "HEA-19-19",
-              "text": "Kan bruke ulike strategier for konflikthåndtering",
-              "elaboration": "Læringsaktiviteter gjennomføres og kompetansemålet sendes til veileder for godkjenning"
-            },
-            {
-              "name": "HEA-20 Aggressive og truende personer",
-              "extId": "HEA-20-20",
-              "text": "Kan håndtere aggressive og truende personer",
-              "elaboration": "Læringsaktiviteter gjennomføres og kompetansemålet sendes til veileder for godkjenning"
-            },
-            {
-              "name": "HEA-21 Miljøterapeutiske målsettinger",
-              "extId": "HEA-21-21",
-              "text": "Kan utføre arbeidet i tråd med miljøterapeutiske målsettinger",
-              "elaboration": "Læringsaktiviteter gjennomføres og kompetansemålet sendes til veileder for godkjenning"
             }
           ]
         },
@@ -164,90 +62,6 @@
               "name": "HEA-23 Tverrfaglig samarbeid",
               "extId": "HEA-23-23",
               "text": "Kan delta i tverrfaglig samarbeid",
-              "elaboration": "Læringsaktiviteter gjennomføres og kompetansemålet sendes til veileder for godkjenning"
-            },
-            {
-              "name": "HEA-24 Brukermedvirkning",
-              "extId": "HEA-24-24",
-              "text": "Kan ivareta brukermedvirkning og samarbeid med pårørende",
-              "elaboration": "Læringsaktiviteter gjennomføres og kompetansemålet sendes til veileder for godkjenning"
-            },
-            {
-              "name": "HEA-25 Kartlegge brukerens funksjonsnivå ",
-              "extId": "HEA-25-25",
-              "text": "Kan kartlegge brukerens funksjonsnivå og bistandsbehov, og gjennomføre tiltak i samhandling med brukeren",
-              "elaboration": "Læringsaktiviteter gjennomføres og kompetansemålet sendes til veileder for godkjenning"
-            },
-            {
-              "name": "HEA-26 Profesjonell helsehjelp",
-              "extId": "HEA-26-26",
-              "text": "Kan yte profesjonell helsehjelp i tråd med gjeldende regelverk",
-              "elaboration": "Læringsaktiviteter gjennomføres og kompetansemålet sendes til veileder for godkjenning"
-            },
-            {
-              "name": "HEA-27 Yrkesetiske retningslinjer",
-              "extId": "HEA-27-27",
-              "text": "Kan utføre arbeidet i tråd med yrkesetiske retningslinjer",
-              "elaboration": "Læringsaktiviteter gjennomføres og kompetansemålet sendes til veileder for godkjenning"
-            },
-            {
-              "name": "HEA-28 Etiske problemstillinger",
-              "extId": "HEA-28-28",
-              "text": "Kan drøfte etiske problemstillinger knyttet til yrkesutøvelsen",
-              "elaboration": "Læringsaktiviteter gjennomføres og kompetansemålet sendes til veileder for godkjenning"
-            },
-            {
-              "name": "HEA-29 Bruk av tvang",
-              "extId": "HEA-29-29",
-              "text": "Kan følge gjeldende regelverk for bruk av tvang",
-              "elaboration": "Læringsaktiviteter gjennomføres og kompetansemålet sendes til veileder for godkjenning"
-            },
-            {
-              "name": "HEA-30 Regelverk",
-              "extId": "HEA-30-30",
-              "text": "Kan utføre arbeidet i samsvar med gjeldende regelverk og arbeidsplassens planer og rutiner",
-              "elaboration": "Læringsaktiviteter gjennomføres og kompetansemålet sendes til veileder for godkjenning"
-            },
-            {
-              "name": "HEA-31 Legemiddelhåndtering",
-              "extId": "HEA-31-31",
-              "text": "Kan følge gjeldende regelverk og arbeidsplassens rutiner for legemiddelhåndtering",
-              "elaboration": "Læringsaktiviteter gjennomføres og kompetansemålet sendes til veileder for godkjenning"
-            },
-            {
-              "name": "HEA-32 Virkning og bivirkning av legemidler",
-              "extId": "HEA-32-32",
-              "text": "Kan observere, rapportere og dokumentere om virkninger og bivirkninger av legemidler",
-              "elaboration": "Læringsaktiviteter gjennomføres og kompetansemålet sendes til veileder for godkjenning"
-            },
-            {
-              "name": "HEA-33 HMS",
-              "extId": "HEA-33-33",
-              "text": "Kan følge gjeldende regelverk for helse-, miljø og sikkerhet",
-              "elaboration": "Læringsaktiviteter gjennomføres og kompetansemålet sendes til veileder for godkjenning"
-            },
-            {
-              "name": "HEA-34 Myndiggjort medarbeider",
-              "extId": "HEA-34-34",
-              "text": "Kan gjøre rede for begrepet myndiggjorte medarbeidere",
-              "elaboration": "Læringsaktiviteter gjennomføres og kompetansemålet sendes til veileder for godkjenning"
-            },
-            {
-              "name": "HEA-35 Reflektere over egen praksis",
-              "extId": "HEA-35-35",
-              "text": "Kan reflektere over egen praksis",
-              "elaboration": "Læringsaktiviteter gjennomføres og kompetansemålet sendes til veileder for godkjenning"
-            },
-            {
-              "name": "HEA-36 Førstehjelp",
-              "extId": "HEA-36-36",
-              "text": "Kan utføre førstehjelp og følge rutiner for varsling",
-              "elaboration": "Læringsaktiviteter gjennomføres og kompetansemålet sendes til veileder for godkjenning"
-            },
-            {
-              "name": "HEA-37 Ergonomiske prinsipper ",
-              "extId": "HEA-37-37",
-              "text": "Kan følge ergonomiske prinsipper i yrkesutøvelsen",
               "elaboration": "Læringsaktiviteter gjennomføres og kompetansemålet sendes til veileder for godkjenning"
             }
           ]
@@ -281,42 +95,6 @@
               "extId": "AMB-02-39",
               "text": "Kan kommunisere med og vise profesjonell omsorg for pasienter og pårørende",
               "elaboration": "Læringsaktiviteter gjennomføres og kompetansemålet sendes til veileder for godkjenning"
-            },
-            {
-              "name": "AMB-03 Kommunikasjon ved traumer og kriser",
-              "extId": "AMB-03-40",
-              "text": "Kan kommunisere med personer i en traumatisk og reaktiv krisesituasjon",
-              "elaboration": "Læringsaktiviteter gjennomføres og kompetansemålet sendes til veileder for godkjenning"
-            },
-            {
-              "name": "AMB-04 Pleietiltak",
-              "extId": "AMB-04-41",
-              "text": "Kan identifisere fysiske og psykiske behov hos pasienter og utføre nødvendige pleietiltak",
-              "elaboration": "Læringsaktiviteter gjennomføres og kompetansemålet sendes til veileder for godkjenning"
-            },
-            {
-              "name": "AMB-05 Samarbeid med lege",
-              "extId": "AMB-05-42",
-              "text": "Kan følge medisinskfaglig veiledning og instrukser fra den ansvarlige legen",
-              "elaboration": "Læringsaktiviteter gjennomføres og kompetansemålet sendes til veileder for godkjenning"
-            },
-            {
-              "name": "AMB-06 Kommunisere om pasienters tilstand",
-              "extId": "AMB-06-43",
-              "text": "Kan kommunisere om pasienters tilstand, avgi systematiske rapporter og sørge for nødvendig dokumentasjon",
-              "elaboration": "Læringsaktiviteter gjennomføres og kompetansemålet sendes til veileder for godkjenning"
-            },
-            {
-              "name": "AMB-07 Medikamenthåndtering",
-              "extId": "AMB-07-44",
-              "text": "Kan observere medikamenters virkning i kroppen og håndtere medikamenter som brukes i ambulansetjenesten",
-              "elaboration": "Læringsaktiviteter gjennomføres og kompetansemålet sendes til veileder for godkjenning"
-            },
-            {
-              "name": "AMB-08 Smittevern",
-              "extId": "AMB-08-45",
-              "text": "Kan forebygge smittespredning og ivareta god hygiene under ambulanseoppdrag og på ambulansestasjonen",
-              "elaboration": "Læringsaktiviteter gjennomføres og kompetansemålet sendes til veileder for godkjenning"
             }
           ]
         },
@@ -334,60 +112,6 @@
               "name": "AMB-10 Primærundersøkelse",
               "extId": "AMB-10-47",
               "text": "Kan utføre enkel undersøkelse, utføre akutte behandlingstiltak, reevaluere og overvåke pasienter",
-              "elaboration": "Læringsaktiviteter gjennomføres og kompetansemålet sendes til veileder for godkjenning"
-            },
-            {
-              "name": "AMB-11 Identifisere tegn og symptomer på akutt sykdom",
-              "extId": "AMB-11-48",
-              "text": "Kan identifisere tegn og symptomer på akutt sykdom, forklare utvikling i kroppen som kan true vitale livsfunksjoner, og iverksette nødvendige tiltak",
-              "elaboration": "Læringsaktiviteter gjennomføres og kompetansemålet sendes til veileder for godkjenning"
-            },
-            {
-              "name": "AMB-12 Identifisere tegn og symptomer på akutt skade",
-              "extId": "AMB-12-49",
-              "text": "Kan identifisere tegn og symptomer på akutt skade, forklare utvikling i kroppen som kan true vitale livsfunksjoner, og iverksette nødvendige tiltak",
-              "elaboration": "Læringsaktiviteter gjennomføres og kompetansemålet sendes til veileder for godkjenning"
-            },
-            {
-              "name": "AMB-13 Graviditet og fødsel",
-              "extId": "AMB-13-50",
-              "text": "Kan identifisere tegn og symptomer på tilstander som kan true vitale livsfunksjoner hos gravide og fødende, og iverksette nødvendige tiltak",
-              "elaboration": "Læringsaktiviteter gjennomføres og kompetansemålet sendes til veileder for godkjenning"
-            },
-            {
-              "name": "AMB-14 Pediatri",
-              "extId": "AMB-14-51",
-              "text": "Kan identifisere tegn og symptomer på sykdommer og skader, forklare utvikling i kroppen som kan true barns vitale livsfunksjoner, og iverksette nødvendige tiltak",
-              "elaboration": "Læringsaktiviteter gjennomføres og kompetansemålet sendes til veileder for godkjenning"
-            },
-            {
-              "name": "AMB-15 Geriatri",
-              "extId": "AMB-15-52",
-              "text": "Kan identifisere tegn og symptomer på sykdommer og skader, ta hensyn til utviklingen i kroppen hos eldre pasienter og iverksette nødvendige tiltak",
-              "elaboration": "Læringsaktiviteter gjennomføres og kompetansemålet sendes til veileder for godkjenning"
-            },
-            {
-              "name": "AMB-16 Psykiatri",
-              "extId": "AMB-16-53",
-              "text": "Kan iverksette nødvendige tiltak ved akutte psykiske lidelser og samhandle med pasienter",
-              "elaboration": "Læringsaktiviteter gjennomføres og kompetansemålet sendes til veileder for godkjenning"
-            },
-            {
-              "name": "AMB-17 Pasient med funksjonsnedsettelse",
-              "extId": "AMB-17-54",
-              "text": "Kan iverksette nødvendige tiltak ved ulike fysiske funksjonshemminger",
-              "elaboration": "Læringsaktiviteter gjennomføres og kompetansemålet sendes til veileder for godkjenning"
-            },
-            {
-              "name": "AMB-18 Hjertestans",
-              "extId": "AMB-18-55",
-              "text": "Kan identifisere tegn på livløshet og iverksette nødvendige tiltak",
-              "elaboration": "Læringsaktiviteter gjennomføres og kompetansemålet sendes til veileder for godkjenning"
-            },
-            {
-              "name": "AMB-19 Når pasienten er død",
-              "extId": "AMB-19-56",
-              "text": "Kan håndtere situasjoner knyttet til døde pasienter",
               "elaboration": "Læringsaktiviteter gjennomføres og kompetansemålet sendes til veileder for godkjenning"
             }
           ]
@@ -413,108 +137,6 @@
               "extId": "AMB-22-59",
               "text": "Kan følge prinsipper for organisering og ledelse på skadestedet og utføre arbeidsoppgaver som første ambulanseenhet",
               "elaboration": "Læringsaktiviteter gjennomføres og kompetansemålet sendes til veileder for godkjenning"
-            },
-            {
-              "name": "AMB-23 Helse, miljø og sikkerhet",
-              "extId": "AMB-23-60",
-              "text": "Kan ivareta egen og andres helse og sikkerhet under og etter ambulanseoppdrag",
-              "elaboration": "Læringsaktiviteter gjennomføres og kompetansemålet sendes til veileder for godkjenning"
-            },
-            {
-              "name": "AMB-24 Arbeide i team",
-              "extId": "AMB-24-61",
-              "text": "Kan arbeide i team, samhandle og kommunisere med andre under ambulanseoppdrag",
-              "elaboration": "Læringsaktiviteter gjennomføres og kompetansemålet sendes til veileder for godkjenning"
-            },
-            {
-              "name": "AMB-25 Vold og trusler",
-              "extId": "AMB-25-62",
-              "text": "Kan håndtere aggressive og truende personer",
-              "elaboration": "Læringsaktiviteter gjennomføres og kompetansemålet sendes til veileder for godkjenning"
-            },
-            {
-              "name": "AMB-26 Skarpe oppdrag",
-              "extId": "AMB-26-63",
-              "text": "Kan samhandle med politiet under skarpe oppdrag",
-              "elaboration": "Læringsaktiviteter gjennomføres og kompetansemålet sendes til veileder for godkjenning"
-            },
-            {
-              "name": "AMB-27 Når pasienten er vanskelig tilgjengelig",
-              "extId": "AMB-27-64",
-              "text": "Kan utføre ambulanseoppdrag når pasienten er vanskelig tilgjengelig",
-              "elaboration": "Læringsaktiviteter gjennomføres og kompetansemålet sendes til veileder for godkjenning"
-            },
-            {
-              "name": "AMB-28 Forflytning",
-              "extId": "AMB-28-65",
-              "text": "Kan forflytte og transportere pasienter på en sikker og omsorgsfull måte",
-              "elaboration": "Læringsaktiviteter gjennomføres og kompetansemålet sendes til veileder for godkjenning"
-            },
-            {
-              "name": "AMB-29 Samarbeid med AMK og sykehus",
-              "extId": "AMB-29-66",
-              "text": "Kan samarbeide med kommunikasjonssentral og sykehus",
-              "elaboration": "Læringsaktiviteter gjennomføres og kompetansemålet sendes til veileder for godkjenning"
-            },
-            {
-              "name": "AMB-30 Samarbeid med helikopter",
-              "extId": "AMB-30-67",
-              "text": "Kan samarbeide med luftambulansetjenesten og redningshelikopter under ambulanseoppdrag",
-              "elaboration": "Læringsaktiviteter gjennomføres og kompetansemålet sendes til veileder for godkjenning"
-            },
-            {
-              "name": "AMB-31 Redningsteknisk",
-              "extId": "AMB-31-68",
-              "text": "Kan følge gjeldende prosedyrer for ambulanseoppdrag forbundet med særlig risiko og redningstekniske behov",
-              "elaboration": "Læringsaktiviteter gjennomføres og kompetansemålet sendes til veileder for godkjenning"
-            },
-            {
-              "name": "AMB-32 Yrkesutøvelse",
-              "extId": "AMB-32-69",
-              "text": "Kan utføre arbeidet i henhold til gjeldende regelverk og krav til profesjonell yrkesutøvelse",
-              "elaboration": "Læringsaktiviteter gjennomføres og kompetansemålet sendes til veileder for godkjenning"
-            },
-            {
-              "name": "AMB-33 Ergonomi",
-              "extId": "AMB-33-70",
-              "text": "Kan følge ergonomiske prinsipper i yrkesutøvelsen",
-              "elaboration": "Læringsaktiviteter gjennomføres og kompetansemålet sendes til veileder for godkjenning"
-            },
-            {
-              "name": "AMB-34 Kvalitetssystemer",
-              "extId": "AMB-34-71",
-              "text": "Kan bruke kvalitetssystemer og utføre arbeidet i tråd med gjeldende regelverk for helse, miljø og sikkerhet",
-              "elaboration": "Læringsaktiviteter gjennomføres og kompetansemålet sendes til veileder for godkjenning"
-            },
-            {
-              "name": "AMB-35 Innmelding av pasient",
-              "extId": "AMB-35-72",
-              "text": "Kan følge gjeldende prosedyrer for åstedsrapportering og innmelding av pasienter til mottakende ledd",
-              "elaboration": "Læringsaktiviteter gjennomføres og kompetansemålet sendes til veileder for godkjenning"
-            },
-            {
-              "name": "AMB-36 Utrykningskjøring",
-              "extId": "AMB-36-73",
-              "text": "Kan drøfte hva arbeidsprosesser og samarbeid i ambulanseteamet betyr for sikkerheten under utrykningskjøring",
-              "elaboration": "Læringsaktiviteter gjennomføres og kompetansemålet sendes til veileder for godkjenning"
-            },
-            {
-              "name": "AMB-37 Trafikale situasjoner",
-              "extId": "AMB-37-74",
-              "text": "Kan drøfte trafikale situasjoner som har betydning for ambulansekjøringen",
-              "elaboration": "Læringsaktiviteter gjennomføres og kompetansemålet sendes til veileder for godkjenning"
-            },
-            {
-              "name": "AMB-38 Ambulansens innredning og oppbygning ",
-              "extId": "AMB-38-75",
-              "text": "Kan gjøre rede for hva ambulansens innredning og oppbygning betyr for sikkerhet og driftspålitelighet",
-              "elaboration": ""
-            },
-            {
-              "name": "AMB-39 Sjekk av bil og lager",
-              "extId": "AMB-39-76",
-              "text": "Kan følge prosedyrer og retningslinjer for lagerhold, bruk, rengjøring, kontroll og vedlikehold av utstyr",
-              "elaboration": ""
             }
           ]
         }
